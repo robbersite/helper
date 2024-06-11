@@ -1,0 +1,6 @@
+{
+	"name": "robbersite/helper",
+    "require": {
+        "topthink/think-helper": "3.1.6"
+    }
+}
